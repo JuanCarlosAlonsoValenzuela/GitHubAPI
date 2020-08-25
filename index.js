@@ -3,7 +3,7 @@ const { resolve, format } = require("path");
 const { Resolver } = require("dns");
 
 const organizationName = "isa-group";
-const apiKey = '81a5475bf7ef97ddb4b0d30603af9b5c756540b9'
+const apiKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
 let totalCommits = 0;
 let totalIssues = 0;
 
